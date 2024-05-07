@@ -1,0 +1,16 @@
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\bin\x64\Debug\SinemaOtomasyonu.exe.config
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\bin\x64\Debug\SinemaOtomasyonu.exe
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\bin\x64\Debug\SinemaOtomasyonu.pdb
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.anaSayfa.resources
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.filmEkleme.resources
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.salonEkleme.resources
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.satislar.resources
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.seansEkleme.resources
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.seansListele.resources
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.exe
+C:\Users\Bendis\OneDrive\Masaüstü\universityclas\görsel programlama 2\FormApps\SinemaOtomasyonu\obj\x64\Debug\SinemaOtomasyonu.pdb
